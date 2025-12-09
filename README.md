@@ -80,7 +80,7 @@ sair
 
 ---
 
-💡 Observações
+## 💡 Observações
 
 O projeto é conceitual, ou seja, serve para aprendizado e portfólio.
 
