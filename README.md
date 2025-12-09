@@ -79,6 +79,7 @@ Para sair do app, digite:
 sair
 
 ---
+
 ## 💡 Observações
 
 
