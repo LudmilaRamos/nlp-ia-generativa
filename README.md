@@ -1,12 +1,11 @@
-
 # NLP com IA Generativa (Projeto Conceitual) 🚀
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenAI](https://img.shields.io/badge/OpenAI-414141?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=transformers&logoColor=white)
 
-> Pipeline conceitual de **NLP com LLMs** para **classificação e sumarização de textos**, aplicando fundamentos de **IA Generativa e prompting**. Ideal para portfólio profissional e aprendizado prático.
+> Pipeline conceitual de **NLP com LLMs** para **classificação e sumarização de textos**, aplicando fundamentos de **IA Generativa e prompting**. Ideal para aprendizado prático e portfólio profissional.
 
 ---
 
@@ -21,10 +20,10 @@
 
 ## 🗂 Estrutura do Projeto
 
-- **pipeline.py** – Função `gerar_texto()` para formatação do prompt e geração de respostas.
-- **app.py** – Script interativo para testar o pipeline (perguntas e resumos).
-- **.venv/** – Ambiente virtual Python com todas as dependências (não versionado no GitHub).
-- **__pycache__/** – Cache do Python.
+- `pipeline.py` – Função `gerar_texto()` para formatação do prompt e geração de respostas.
+- `app.py` – Script interativo para testar o pipeline (perguntas e resumos).
+- `.venv/` – Ambiente virtual Python com todas as dependências (não versionado no GitHub).
+- `__pycache__/` – Cache do Python.
 
 ---
 
@@ -55,6 +54,7 @@
 ```bash
 git clone https://github.com/LudmilaRamos/nlp-ia-generativa.git
 cd nlp-ia-generativa
+
 
 2. Crie e ative um ambiente virtual:
 python -m venv .venv
