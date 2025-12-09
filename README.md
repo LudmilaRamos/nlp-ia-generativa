@@ -79,4 +79,17 @@ Para sair do app, digite:
 sair
 
 
+---
+
+## 💡 Observações:
+
+O projeto é conceitual, ou seja, serve para aprendizado e portfólio.
+
+As respostas podem aparecer parcialmente em inglês dependendo do modelo, mas ajustes no pipeline.py garantem respostas em português.
+
+O ambiente virtual (.venv) deve ser incluído no .gitignore para não subir no GitHub.
+
+---
+
+
 
