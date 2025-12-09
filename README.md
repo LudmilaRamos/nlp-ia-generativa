@@ -1,4 +1,4 @@
-# nlp-ia-generativa
+
 # NLP com IA Generativa (Projeto Conceitual) 🚀
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
