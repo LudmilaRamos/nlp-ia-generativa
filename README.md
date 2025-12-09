@@ -79,8 +79,8 @@ Para sair do app, digite:
 sair
 
 ---
+## 💡 Observações
 
-##💡 Observações
 
 O projeto é conceitual, ou seja, serve para aprendizado e portfólio.
 
@@ -90,7 +90,7 @@ O ambiente virtual (.venv) deve ser incluído no .gitignore para não subir no G
 
 ---
 
-📬 Contato
+## 📬 Contato
 
 Ludmila Almeida Ramos
 Email: ludmilaramos0@gmail.com
